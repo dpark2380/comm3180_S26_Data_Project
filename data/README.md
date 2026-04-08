@@ -50,4 +50,4 @@ All Numbeo files are Excel workbooks with one sheet per year (2016–2025 or 202
 | `numbeo_property_prices.xlsx` | Price to Income Ratio, Mortgage as % of Income, Affordability Index |
 | `numbeo_traffic.xlsx` | Traffic Index, Time Index (minutes) |
 
-**Source:** [Numbeo](https://www.numbeo.com): manually collected. Data is crowd-sourced.
+**Source:** [Numbeo](https://www.numbeo.com): data was manually collected from the Numbeo website. Data is crowd-sourced.
