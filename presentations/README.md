@@ -1,22 +1,18 @@
-## Presentations for COMM3180 Group Data Project
+# Presentations
 
-* This folder should contain the subfolders and files for your project presentations.
+This folder contains slide decks and PDFs for the "Quality of Life Per Dollar" project presentations.
 
-### Initial Presentation
+## Initial Pitch (March 30, 2026)
 
-* The presentation should have 3-5 slides that cover:
-  1. What is your research question and hypothesis?
-  2. What data are you using, how did you collect it and what are its dimensions?
-  3. What are your planned analyses and/or any initial findings.
+**File:** `COMM3180 Initial Pitch.pptx (1).pdf`
 
-### Final Presentation
+A 5-slide pitch deck covering:
+1. Project concept and why existing liveability indices (EIU, Mercer) ignore affordability
+2. Research questions and hypotheses
+3. Datasets: Numbeo, World Bank WDI, WHO Global Health Observatory
+4. Planned analysis and index construction methodology
+5. Group split and timeline
 
-* The presentation should have 8-10 slides that cover:
-  1. What is your research question and hypothesis?
-  2. What data did you use, how did you acquire and clean it and what are its dimensions?
-  3. What analyses did you carry out?
-  4. What are your key findings so far?
-  5. Next steps before final submission.
+## Final Presentation
 
-
-* Update this README file to describe the presentations.
+*To be added.*
