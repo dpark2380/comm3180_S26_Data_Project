@@ -13,7 +13,7 @@ This folder contains all raw and cleaned data files for the "Quality of Life Per
 
 | File | Description |
 |------|-------------|
-| `worldbank_wdi_raw.csv` | Main data file. 4 series for 217 countries, 2011–2024. Load with `na_values=['..']`. |
+| `worldbank_wdi_raw.csv` | Main data file. 4 series for 217 countries, 2011–2024. |
 | `worldbank_wdi_series_metadata.csv` | Metadata describing each series. |
 
 **Variables:** GDP per capita PPP (current international $), Gini index, Life expectancy at birth (years), Current health expenditure per capita PPP.
@@ -37,9 +37,9 @@ This folder contains all raw and cleaned data files for the "Quality of Life Per
 
 ---
 
-### Numbeo City Indices
+### Numbeo City Level Indices
 
-All Numbeo files are Excel workbooks with one sheet per year (2016–2025 or 2026). Years used in this project: **2019, 2020, 2021, 2022, 2024**.
+All Numbeo files are Excel workbooks with one sheet per year (2016–2025, with some datasets having data for 2026).
 
 | File | Key Variables |
 |------|--------------|
