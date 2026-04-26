@@ -1,0 +1,401 @@
+rank,city_full,crime_index,safety_index,year,country,city_name,safety_tier
+1,"Pietermaritzburg, South Africa",82.8,17.2,2026,South Africa,Pietermaritzburg,Very Unsafe
+2,"Pretoria, South Africa",81.8,18.2,2026,South Africa,Pretoria,Very Unsafe
+3,"Caracas, Venezuela",81.4,18.6,2026,Venezuela,Caracas,Very Unsafe
+4,"Port Moresby, Papua New Guinea",81.3,18.7,2026,Papua New Guinea,Port Moresby,Very Unsafe
+5,"Johannesburg, South Africa",80.8,19.2,2026,South Africa,Johannesburg,Very Unsafe
+6,"Durban, South Africa",80.4,19.6,2026,South Africa,Durban,Very Unsafe
+7,"San Pedro Sula, Honduras",79.4,20.6,2026,Honduras,San Pedro Sula,Very Unsafe
+8,"Port Elizabeth, South Africa",78.6,21.4,2026,South Africa,Port Elizabeth,Very Unsafe
+9,"Memphis, TN, United States",78.5,21.5,2026,United States,Memphis,Very Unsafe
+10,"Salvador, Brazil",76.5,23.5,2026,Brazil,Salvador,Very Unsafe
+11,"Port of Spain, Trinidad And Tobago",76.4,23.6,2026,Trinidad And Tobago,Port of Spain,Very Unsafe
+12,"Fortaleza, Brazil",75.9,24.1,2026,Brazil,Fortaleza,Very Unsafe
+13,"Rio de Janeiro, Brazil",75.2,24.8,2026,Brazil,Rio de Janeiro,Very Unsafe
+14,"Recife, Brazil",74.9,25.1,2026,Brazil,Recife,Unsafe
+15,"Guayaquil, Ecuador",74.4,25.6,2026,Ecuador,Guayaquil,Unsafe
+16,"Cape Town, South Africa",73.7,26.3,2026,South Africa,Cape Town,Unsafe
+17,"Detroit, MI, United States",72.8,27.2,2026,United States,Detroit,Unsafe
+18,"Cali, Colombia",72.0,28.0,2026,Colombia,Cali,Unsafe
+19,"Baltimore, MD, United States",72.0,28.0,2026,United States,Baltimore,Unsafe
+20,"Tijuana, Mexico",71.5,28.5,2026,Mexico,Tijuana,Unsafe
+21,"Albuquerque, NM, United States",70.9,29.1,2026,United States,Albuquerque,Unsafe
+22,"Porto Alegre, Brazil",70.7,29.3,2026,Brazil,Porto Alegre,Unsafe
+23,"Lima, Peru",70.2,29.8,2026,Peru,Lima,Unsafe
+24,"Saint Louis, MO, United States",70.0,30.0,2026,United States,Saint Louis,Unsafe
+25,"Sao Paulo, Brazil",69.9,30.1,2026,Brazil,Sao Paulo,Unsafe
+26,"Kingston, Jamaica",69.1,30.9,2026,Jamaica,Kingston,Unsafe
+27,"Oakland, CA, United States",68.9,31.1,2026,United States,Oakland,Unsafe
+28,"Lagos, Nigeria",68.8,31.2,2026,Nigeria,Lagos,Unsafe
+29,"Damascus, Syria",68.2,31.8,2026,Syria,Damascus,Unsafe
+30,"Windhoek, Namibia",67.6,32.4,2026,Namibia,Windhoek,Unsafe
+31,"New Orleans, LA, United States",67.1,32.9,2026,United States,New Orleans,Unsafe
+32,"San Juan, Puerto Rico",67.1,32.9,2026,Puerto Rico,San Juan,Unsafe
+33,"Santo Domingo, Dominican Republic",67.0,33.0,2026,Dominican Republic,Santo Domingo,Unsafe
+34,"Alice Springs, Australia",66.9,33.1,2026,Australia,Alice Springs,Unsafe
+35,"Mexico City, Mexico",66.8,33.2,2026,Mexico,Mexico City,Unsafe
+36,"Marseille, France",66.7,33.3,2026,France,Marseille,Unsafe
+37,"Bogota, Colombia",66.7,33.3,2026,Colombia,Bogota,Unsafe
+38,"Rockhampton, Australia",66.3,33.7,2026,Australia,Rockhampton,Unsafe
+39,"Milwaukee, WI, United States",66.0,34.0,2026,United States,Milwaukee,Unsafe
+40,"Campinas, Brazil",65.8,34.2,2026,Brazil,Campinas,Unsafe
+41,"Chicago, IL, United States",65.5,34.5,2026,United States,Chicago,Unsafe
+42,"Philadelphia, PA, United States",65.3,34.7,2026,United States,Philadelphia,Unsafe
+43,"Manila, Philippines",64.6,35.4,2026,Philippines,Manila,Unsafe
+44,"Surrey, Canada",64.4,35.6,2026,Canada,Surrey,Unsafe
+45,"Quezon City, Philippines",64.3,35.7,2026,Philippines,Quezon City,Unsafe
+46,"Santiago, Chile",64.2,35.8,2026,Chile,Santiago,Unsafe
+47,"Atlanta, GA, United States",64.2,35.8,2026,United States,Atlanta,Unsafe
+48,"Birmingham, United Kingdom",63.8,36.2,2026,United Kingdom,Birmingham,Unsafe
+49,"Quito, Ecuador",63.5,36.5,2026,Ecuador,Quito,Unsafe
+50,"Houston, TX, United States",63.2,36.8,2026,United States,Houston,Unsafe
+51,"Lethbridge, AB, Canada",63.1,36.9,2026,Canada,Lethbridge,Unsafe
+52,"Buenos Aires, Argentina",63.0,37.0,2026,Argentina,Buenos Aires,Unsafe
+53,"Darwin, Australia",62.9,37.1,2026,Australia,Darwin,Unsafe
+54,"Coventry, United Kingdom",62.7,37.3,2026,United Kingdom,Coventry,Unsafe
+55,"Grenoble, France",62.6,37.4,2026,France,Grenoble,Unsafe
+56,"Sudbury, Canada",62.5,37.5,2026,Canada,Sudbury,Unsafe
+57,"Guadalajara, Mexico",62.4,37.6,2026,Mexico,Guadalajara,Unsafe
+58,"Naples, Italy",62.3,37.7,2026,Italy,Naples,Unsafe
+59,"Dhaka, Bangladesh",62.2,37.8,2026,Bangladesh,Dhaka,Unsafe
+60,"Cairns, Australia",62.1,37.9,2026,Australia,Cairns,Unsafe
+61,"Kelowna, Canada",62.1,37.9,2026,Canada,Kelowna,Unsafe
+62,"Townsville, Australia",61.4,38.6,2026,Australia,Townsville,Unsafe
+63,"Cordoba, Argentina",61.1,38.9,2026,Argentina,Cordoba,Unsafe
+64,"Montpellier, France",61.0,39.0,2026,France,Montpellier,Unsafe
+65,"Winnipeg, Canada",60.8,39.2,2026,Canada,Winnipeg,Unsafe
+66,"Curitiba, Brazil",60.7,39.3,2026,Brazil,Curitiba,Unsafe
+67,"Harare, Zimbabwe",60.7,39.3,2026,Zimbabwe,Harare,Unsafe
+68,"San Francisco, CA, United States",60.6,39.4,2026,United States,San Francisco,Unsafe
+69,"Indianapolis, IN, United States",60.6,39.4,2026,United States,Indianapolis,Unsafe
+70,"Brantford, Canada",60.5,39.5,2026,Canada,Brantford,Unsafe
+71,"Sault Ste. Marie, Canada",60.3,39.7,2026,Canada,Sault Ste. Marie,Unsafe
+72,"Oshawa, Canada",60.2,39.8,2026,Canada,Oshawa,Unsafe
+73,"Washington, DC, United States",59.8,40.2,2026,United States,Washington,Moderate
+74,"Belo Horizonte, Brazil",59.6,40.4,2026,Brazil,Belo Horizonte,Moderate
+75,"Nairobi, Kenya",59.4,40.6,2026,Kenya,Nairobi,Moderate
+76,"Lyon, France",59.3,40.7,2026,France,Lyon,Moderate
+77,"Kuala Lumpur, Malaysia",59.1,40.9,2026,Malaysia,Kuala Lumpur,Moderate
+78,"Delhi, India",59.1,40.9,2026,India,Delhi,Moderate
+79,"Bradford, United Kingdom",59.0,41.0,2026,United Kingdom,Bradford,Moderate
+80,"Brasilia, Brazil",58.7,41.3,2026,Brazil,Brasilia,Moderate
+81,"Nantes, France",58.6,41.4,2026,France,Nantes,Moderate
+82,"Kansas City, MO, United States",58.6,41.4,2026,United States,Kansas City,Moderate
+83,"Ghaziabad, India",58.4,41.6,2026,India,Ghaziabad,Moderate
+84,"Portland, OR, United States",58.3,41.7,2026,United States,Portland,Moderate
+85,"Liege, Belgium",58.3,41.7,2026,Belgium,Liege,Moderate
+86,"Puebla, Mexico",58.1,41.9,2026,Mexico,Puebla,Moderate
+87,"Paris, France",58.0,42.0,2026,France,Paris,Moderate
+88,"Karachi, Pakistan",57.5,42.5,2026,Pakistan,Karachi,Moderate
+89,"Tehran, Iran",57.3,42.7,2026,Iran,Tehran,Moderate
+90,"Montevideo, Uruguay",56.5,43.5,2026,Uruguay,Montevideo,Moderate
+91,"Asuncion, Paraguay",56.2,43.8,2026,Paraguay,Asuncion,Moderate
+92,"Hamilton, Canada",56.2,43.8,2026,Canada,Hamilton,Moderate
+93,"Manchester, United Kingdom",55.9,44.1,2026,United Kingdom,Manchester,Moderate
+94,"Hamilton, New Zealand",55.9,44.1,2026,New Zealand,Hamilton,Moderate
+95,"San Salvador, El Salvador",55.7,44.3,2026,El Salvador,San Salvador,Moderate
+96,"Nice, France",55.6,44.4,2026,France,Nice,Moderate
+97,"Minneapolis, MN, United States",55.6,44.4,2026,United States,Minneapolis,Moderate
+98,"San Jose, Costa Rica",55.6,44.4,2026,Costa Rica,San Jose,Moderate
+99,"London, United Kingdom",55.6,44.4,2026,United Kingdom,London,Moderate
+100,"Brampton, Canada",55.5,44.5,2026,Canada,Brampton,Moderate
+101,"Las Vegas, NV, United States",55.5,44.5,2026,United States,Las Vegas,Moderate
+102,"Brussels, Belgium",55.4,44.6,2026,Belgium,Brussels,Moderate
+103,"Seattle, WA, United States",55.2,44.8,2026,United States,Seattle,Moderate
+104,"Athens, Greece",55.2,44.8,2026,Greece,Athens,Moderate
+105,"Odessa (Odesa), Ukraine",55.2,44.8,2026,Ukraine,Odessa (Odesa),Moderate
+106,"Noida, India",55.1,44.9,2026,India,Noida,Moderate
+107,"Ballarat, Australia",55.1,44.9,2026,Australia,Ballarat,Moderate
+108,"Casablanca, Morocco",55.0,45.0,2026,Morocco,Casablanca,Moderate
+109,"Malmo, Sweden",55.0,45.0,2026,Sweden,Malmo,Moderate
+110,"Cancun, Mexico",54.8,45.2,2026,Mexico,Cancun,Moderate
+111,"Klang, Malaysia",54.8,45.2,2026,Malaysia,Klang,Moderate
+112,"Jacksonville, FL, United States",54.8,45.2,2026,United States,Jacksonville,Moderate
+113,"Kamloops, Canada",54.8,45.2,2026,Canada,Kamloops,Moderate
+114,"Tucson, AZ, United States",54.7,45.3,2026,United States,Tucson,Moderate
+115,"Amadora, Portugal",54.4,45.6,2026,Portugal,Amadora,Moderate
+116,"Dublin, Ireland",54.2,45.8,2026,Ireland,Dublin,Moderate
+117,"Los Angeles, CA, United States",54.1,45.9,2026,United States,Los Angeles,Moderate
+118,"Gurgaon, India",54.1,45.9,2026,India,Gurgaon,Moderate
+119,"Bangalore, India",54.0,46.0,2026,India,Bangalore,Moderate
+120,"Baghdad, Iraq",53.9,46.1,2026,Iraq,Baghdad,Moderate
+121,"London, Canada",53.8,46.2,2026,Canada,London,Moderate
+122,"Dnipro, Ukraine",53.7,46.3,2026,Ukraine,Dnipro,Moderate
+123,"Medellin, Colombia",53.6,46.4,2026,Colombia,Medellin,Moderate
+124,"Milan, Italy",53.5,46.5,2026,Italy,Milan,Moderate
+125,"Regina, Canada",53.5,46.5,2026,Canada,Regina,Moderate
+126,"Nanaimo, BC, Canada",53.5,46.5,2026,Canada,Nanaimo,Moderate
+127,"Miami, FL, United States",53.3,46.7,2026,United States,Miami,Moderate
+128,"Almaty, Kazakhstan",53.1,46.9,2026,Kazakhstan,Almaty,Moderate
+129,"Phoenix, AZ, United States",53.0,47.0,2026,United States,Phoenix,Moderate
+130,"Jakarta, Indonesia",52.8,47.2,2026,Indonesia,Jakarta,Moderate
+131,"Nottingham, United Kingdom",52.7,47.3,2026,United Kingdom,Nottingham,Moderate
+132,"Thessaloniki, Greece",52.0,48.0,2026,Greece,Thessaloniki,Moderate
+133,"Barcelona, Spain",51.9,48.1,2026,Spain,Barcelona,Moderate
+134,"Turin, Italy",51.9,48.1,2026,Italy,Turin,Moderate
+135,"Dallas, TX, United States",51.7,48.3,2026,United States,Dallas,Moderate
+136,"Rawalpindi, Pakistan",51.6,48.4,2026,Pakistan,Rawalpindi,Moderate
+137,"Ulaanbaatar, Mongolia",51.5,48.5,2026,Mongolia,Ulaanbaatar,Moderate
+138,"New York, NY, United States",51.1,48.9,2026,United States,New York,Moderate
+139,"Algiers, Algeria",51.0,49.0,2026,Algeria,Algiers,Moderate
+140,"Bali, Indonesia",51.0,49.0,2026,Indonesia,Bali,Moderate
+141,"Lille, France",51.0,49.0,2026,France,Lille,Moderate
+142,"Drogheda, Ireland",50.6,49.4,2026,Ireland,Drogheda,Moderate
+143,"Phnom Penh, Cambodia",50.6,49.4,2026,Cambodia,Phnom Penh,Moderate
+144,"Auckland, New Zealand",50.5,49.5,2026,New Zealand,Auckland,Moderate
+145,"Cebu, Philippines",50.4,49.6,2026,Philippines,Cebu,Moderate
+146,"Ho Chi Minh City, Vietnam",50.4,49.6,2026,Vietnam,Ho Chi Minh City,Moderate
+147,"San Miguel de Allende, Mexico",50.0,50.0,2026,Mexico,San Miguel de Allende,Moderate
+148,"Cairo, Egypt",50.0,50.0,2026,Egypt,Cairo,Moderate
+149,"Bari, Italy",49.9,50.1,2026,Italy,Bari,Moderate
+150,"Minsk, Belarus",49.9,50.1,2026,Belarus,Minsk,Moderate
+151,"Toulouse, France",49.8,50.2,2026,France,Toulouse,Moderate
+152,"Bordeaux, France",49.8,50.2,2026,France,Bordeaux,Moderate
+153,"Addis Ababa, Ethiopia",49.7,50.3,2026,Ethiopia,Addis Ababa,Moderate
+154,"Bilbao, Spain",49.5,50.5,2026,Spain,Bilbao,Moderate
+155,"Moncton, Canada",49.5,50.5,2026,Canada,Moncton,Moderate
+156,"Columbus, OH, United States",49.3,50.7,2026,United States,Columbus,Moderate
+157,"Sacramento, CA, United States",49.2,50.8,2026,United States,Sacramento,Moderate
+158,"Charlotte, NC, United States",49.2,50.8,2026,United States,Charlotte,Moderate
+159,"Saskatoon, Canada",49.1,50.9,2026,Canada,Saskatoon,Moderate
+160,"San Antonio, TX, United States",48.8,51.2,2026,United States,San Antonio,Moderate
+161,"Bologna, Italy",48.7,51.3,2026,Italy,Bologna,Moderate
+162,"Johor Bahru, Malaysia",48.6,51.4,2026,Malaysia,Johor Bahru,Moderate
+163,"Liverpool, United Kingdom",48.5,51.5,2026,United Kingdom,Liverpool,Moderate
+164,"Catania, Italy",48.5,51.5,2026,Italy,Catania,Moderate
+165,"Tunis, Tunisia",48.5,51.5,2026,Tunisia,Tunis,Moderate
+166,"Indore, India",48.2,51.8,2026,India,Indore,Moderate
+167,"Monterrey, Mexico",48.1,51.9,2026,Mexico,Monterrey,Moderate
+168,"Raleigh, NC, United States",48.0,52.0,2026,United States,Raleigh,Moderate
+169,"Istanbul, Turkey",48.0,52.0,2026,Turkey,Istanbul,Moderate
+170,"Orlando, FL, United States",48.0,52.0,2026,United States,Orlando,Moderate
+171,"San Jose, CA, United States",48.0,52.0,2026,United States,San Jose,Moderate
+172,"Belfast, United Kingdom",48.0,52.0,2026,United Kingdom,Belfast,Moderate
+173,"Denver, CO, United States",48.0,52.0,2026,United States,Denver,Moderate
+174,"Newcastle, Australia",47.8,52.2,2026,Australia,Newcastle,Moderate
+175,"Honolulu, HI, United States",47.5,52.5,2026,United States,Honolulu,Moderate
+176,"Rome, Italy",47.3,52.7,2026,Italy,Rome,Moderate
+177,"St.Catharines, Canada",47.3,52.7,2026,Canada,St.Catharines,Moderate
+178,"Kharkiv, Ukraine",47.2,52.8,2026,Ukraine,Kharkiv,Moderate
+179,"Gold Coast, Australia",47.1,52.9,2026,Australia,Gold Coast,Moderate
+180,"Panama City, Panama",47.1,52.9,2026,Panama,Panama City,Moderate
+181,"Bremen, Germany",47.1,52.9,2026,Germany,Bremen,Moderate
+182,"Kolkata, India",46.9,53.1,2026,India,Kolkata,Moderate
+183,"Beirut, Lebanon",46.8,53.2,2026,Lebanon,Beirut,Moderate
+184,"Edmonton, Canada",46.8,53.2,2026,Canada,Edmonton,Moderate
+185,"Stockholm, Sweden",46.5,53.5,2026,Sweden,Stockholm,Moderate
+186,"Windsor, Canada",46.5,53.5,2026,Canada,Windsor,Moderate
+187,"Florianopolis, Brazil",46.4,53.6,2026,Brazil,Florianopolis,Moderate
+188,"Skopje, North Macedonia",46.1,53.9,2026,North Macedonia,Skopje,Moderate
+189,"Pattaya, Thailand",45.9,54.1,2026,Thailand,Pattaya,Moderate
+190,"Gothenburg, Sweden",45.8,54.2,2026,Sweden,Gothenburg,Moderate
+191,"Palermo, Italy",45.8,54.2,2026,Italy,Palermo,Moderate
+192,"Kiev (Kyiv), Ukraine",45.5,54.5,2026,Ukraine,Kiev (Kyiv),Moderate
+193,"Lucknow (Lakhnau), India",45.5,54.5,2026,India,Lucknow (Lakhnau),Moderate
+194,"Cuenca, Ecuador",45.5,54.5,2026,Ecuador,Cuenca,Moderate
+195,"Alexandria, Egypt",45.4,54.6,2026,Egypt,Alexandria,Moderate
+196,"Novosibirsk, Russia",45.3,54.7,2026,Russia,Novosibirsk,Moderate
+197,"Glasgow, United Kingdom",45.2,54.8,2026,United Kingdom,Glasgow,Moderate
+198,"Leeds, United Kingdom",45.1,54.9,2026,United Kingdom,Leeds,Moderate
+199,"Hanover, Germany",45.1,54.9,2026,Germany,Hanover,Moderate
+200,"Genoa, Italy",45.0,55.0,2026,Italy,Genoa,Safe
+201,"Christchurch, New Zealand",44.9,55.1,2026,New Zealand,Christchurch,Safe
+202,"Cologne, Germany",44.7,55.3,2026,Germany,Cologne,Safe
+203,"Kristiansand, Norway",44.6,55.4,2026,Norway,Kristiansand,Safe
+204,"Berlin, Germany",44.5,55.5,2026,Germany,Berlin,Safe
+205,"Frankfurt, Germany",44.5,55.5,2026,Germany,Frankfurt,Safe
+206,"Tampa, FL, United States",44.5,55.5,2026,United States,Tampa,Safe
+207,"Sarajevo, Bosnia And Herzegovina",44.5,55.5,2026,Bosnia And Herzegovina,Sarajevo,Safe
+208,"Austin, TX, United States",44.3,55.7,2026,United States,Austin,Safe
+209,"Melbourne, Australia",44.2,55.8,2026,Australia,Melbourne,Safe
+210,"Mumbai, India",44.1,55.9,2026,India,Mumbai,Safe
+211,"Mississauga, Canada",43.9,56.1,2026,Canada,Mississauga,Safe
+212,"Constanta, Romania",43.8,56.2,2026,Romania,Constanta,Safe
+213,"Brooklyn, NY, United States",43.7,56.3,2026,United States,Brooklyn,Safe
+214,"Limerick, Ireland",43.6,56.4,2026,Ireland,Limerick,Safe
+215,"Toronto, Canada",43.5,56.5,2026,Canada,Toronto,Safe
+216,"Yekaterinburg, Russia",43.0,57.0,2026,Russia,Yekaterinburg,Safe
+217,"Bristol, United Kingdom",43.0,57.0,2026,United Kingdom,Bristol,Safe
+218,"Kitchener, Canada",42.9,57.1,2026,Canada,Kitchener,Safe
+219,"Sheffield, United Kingdom",42.9,57.1,2026,United Kingdom,Sheffield,Safe
+220,"Vaughan, Canada",42.8,57.2,2026,Canada,Vaughan,Safe
+221,"Vancouver, Canada",42.7,57.3,2026,Canada,Vancouver,Safe
+222,"Colombo, Sri Lanka",42.6,57.4,2026,Sri Lanka,Colombo,Safe
+223,"Hyderabad, India",42.6,57.4,2026,India,Hyderabad,Safe
+224,"Chandigarh, India",42.4,57.6,2026,India,Chandigarh,Safe
+225,"Perth, Australia",42.3,57.7,2026,Australia,Perth,Safe
+226,"Florence, Italy",42.1,57.9,2026,Italy,Florence,Safe
+227,"Leipzig, Germany",41.9,58.1,2026,Germany,Leipzig,Safe
+228,"Chisinau, Moldova",41.7,58.3,2026,Moldova,Chisinau,Safe
+229,"Pune, India",41.3,58.7,2026,India,Pune,Safe
+230,"Strasbourg, France",40.8,59.2,2026,France,Strasbourg,Safe
+231,"Craiova, Romania",40.5,59.5,2026,Romania,Craiova,Safe
+232,"Chennai, India",40.0,60.0,2026,India,Chennai,Safe
+233,"Antwerp, Belgium",39.9,60.1,2026,Belgium,Antwerp,Safe
+234,"Iloilo, Philippines",39.9,60.1,2026,Philippines,Iloilo,Safe
+235,"Tirana, Albania",39.8,60.2,2026,Albania,Tirana,Safe
+236,"Braga, Portugal",39.7,60.3,2026,Portugal,Braga,Safe
+237,"Cardiff, United Kingdom",39.7,60.3,2026,United Kingdom,Cardiff,Safe
+238,"Boston, MA, United States",39.7,60.3,2026,United States,Boston,Safe
+239,"Hamburg, Germany",39.7,60.3,2026,Germany,Hamburg,Safe
+240,"San Diego, CA, United States",39.6,60.4,2026,United States,San Diego,Safe
+241,"Ankara, Turkey",39.5,60.5,2026,Turkey,Ankara,Safe
+242,"Victoria, Canada",39.4,60.6,2026,Canada,Victoria,Safe
+243,"Newcastle upon Tyne, United Kingdom",39.4,60.6,2026,United Kingdom,Newcastle upon Tyne,Safe
+244,"Bonn, Germany",39.2,60.8,2026,Germany,Bonn,Safe
+245,"Thiruvananthapuram, India",39.0,61.0,2026,India,Thiruvananthapuram,Safe
+246,"Halifax, Canada",39.0,61.0,2026,Canada,Halifax,Safe
+247,"Brighton, United Kingdom",38.9,61.1,2026,United Kingdom,Brighton,Safe
+248,"Sofia, Bulgaria",38.8,61.2,2026,Bulgaria,Sofia,Safe
+249,"Limassol, Cyprus",38.7,61.3,2026,Cyprus,Limassol,Safe
+250,"Kingston, Canada",38.7,61.3,2026,Canada,Kingston,Safe
+251,"Pittsburgh, PA, United States",38.6,61.4,2026,United States,Pittsburgh,Safe
+252,"Novi Sad, Serbia",38.6,61.4,2026,Serbia,Novi Sad,Safe
+253,"Boise, ID, United States",38.4,61.6,2026,United States,Boise,Safe
+254,"Bangkok, Thailand",38.2,61.8,2026,Thailand,Bangkok,Safe
+255,"Brisbane, Australia",38.2,61.8,2026,Australia,Brisbane,Safe
+256,"Makati, Philippines",38.1,61.9,2026,Philippines,Makati,Safe
+257,"Calgary, Canada",37.8,62.2,2026,Canada,Calgary,Safe
+258,"Queretaro (Santiago de Querétaro), Mexico",37.8,62.2,2026,Mexico,Queretaro (Santiago de Querétaro),Safe
+259,"Belgrade, Serbia",37.8,62.2,2026,Serbia,Belgrade,Safe
+260,"Lodz, Poland",37.7,62.3,2026,Poland,Lodz,Safe
+261,"Saint Petersburg, Russia",37.7,62.3,2026,Russia,Saint Petersburg,Safe
+262,"Riga, Latvia",37.5,62.5,2026,Latvia,Riga,Safe
+263,"Amman, Jordan",37.4,62.6,2026,Jordan,Amman,Safe
+264,"Cork, Ireland",37.2,62.8,2026,Ireland,Cork,Safe
+265,"Lviv, Ukraine",37.2,62.8,2026,Ukraine,Lviv,Safe
+266,"Lahore, Pakistan",36.9,63.1,2026,Pakistan,Lahore,Safe
+267,"Kathmandu, Nepal",36.7,63.3,2026,Nepal,Kathmandu,Safe
+268,"Aberdeen, United Kingdom",36.7,63.3,2026,United Kingdom,Aberdeen,Safe
+269,"Kaunas, Lithuania",36.6,63.4,2026,Lithuania,Kaunas,Safe
+270,"Madison, WI, United States",36.5,63.5,2026,United States,Madison,Safe
+271,"Navi Mumbai, India",36.5,63.5,2026,India,Navi Mumbai,Safe
+272,"Cagliari, Italy",36.5,63.5,2026,Italy,Cagliari,Safe
+273,"Karlsruhe, Germany",36.5,63.5,2026,Germany,Karlsruhe,Safe
+274,"Jerusalem, Israel",36.0,64.0,2026,Israel,Jerusalem,Safe
+275,"Irvine, CA, United States",36.0,64.0,2026,United States,Irvine,Safe
+276,"Salt Lake City, UT, United States",35.9,64.1,2026,United States,Salt Lake City,Safe
+277,"Palma de Mallorca, Spain",35.7,64.3,2026,Spain,Palma de Mallorca,Safe
+278,"Seville (Sevilla), Spain",35.4,64.6,2026,Spain,Seville (Sevilla),Safe
+279,"Moscow, Russia",35.2,64.8,2026,Russia,Moscow,Safe
+280,"Havana, Cuba",35.1,64.9,2026,Cuba,Havana,Safe
+281,"Valencia, Spain",34.7,65.3,2026,Spain,Valencia,Safe
+282,"Jaipur, India",34.7,65.3,2026,India,Jaipur,Safe
+283,"Varna, Bulgaria",34.4,65.6,2026,Bulgaria,Varna,Safe
+284,"Oslo, Norway",34.4,65.6,2026,Norway,Oslo,Safe
+285,"Hobart, Australia",34.0,66.0,2026,Australia,Hobart,Safe
+286,"Sydney, Australia",34.0,66.0,2026,Australia,Sydney,Safe
+287,"Alicante, Spain",34.0,66.0,2026,Spain,Alicante,Safe
+288,"Puerto Vallarta, Mexico",33.9,66.1,2026,Mexico,Puerto Vallarta,Safe
+289,"Iasi, Romania",33.9,66.1,2026,Romania,Iasi,Safe
+290,"Budapest, Hungary",33.9,66.1,2026,Hungary,Budapest,Safe
+291,"Rabat, Morocco",33.8,66.2,2026,Morocco,Rabat,Safe
+292,"Hanoi, Vietnam",33.8,66.2,2026,Vietnam,Hanoi,Safe
+293,"Porto, Portugal",33.4,66.6,2026,Portugal,Porto,Safe
+294,"Surat, India",33.4,66.6,2026,India,Surat,Safe
+295,"Wellington, New Zealand",33.3,66.7,2026,New Zealand,Wellington,Safe
+296,"Adelaide, Australia",33.2,66.8,2026,Australia,Adelaide,Safe
+297,"Astana (Nur-Sultan), Kazakhstan",33.2,66.8,2026,Kazakhstan,Astana (Nur-Sultan),Safe
+298,"Izmir, Turkey",33.2,66.8,2026,Turkey,Izmir,Safe
+299,"Guelph, Canada",33.1,66.9,2026,Canada,Guelph,Safe
+300,"Osaka, Japan",33.0,67.0,2026,Japan,Osaka,Safe
+301,"Montreal, Canada",32.8,67.2,2026,Canada,Montreal,Safe
+302,"Dusseldorf, Germany",32.7,67.3,2026,Germany,Dusseldorf,Safe
+303,"Lisbon, Portugal",32.6,67.4,2026,Portugal,Lisbon,Safe
+304,"Freiburg im Breisgau, Germany",32.3,67.7,2026,Germany,Freiburg im Breisgau,Safe
+305,"Lund, Sweden",32.1,67.9,2026,Sweden,Lund,Safe
+306,"Nicosia, Cyprus",32.0,68.0,2026,Cyprus,Nicosia,Safe
+307,"Ahmedabad, India",31.5,68.5,2026,India,Ahmedabad,Safe
+308,"Islamabad, Pakistan",31.4,68.6,2026,Pakistan,Islamabad,Safe
+309,"Basel, Switzerland",31.4,68.6,2026,Switzerland,Basel,Safe
+310,"Gdansk, Poland",31.3,68.7,2026,Poland,Gdansk,Safe
+311,"Ottawa, Canada",31.0,69.0,2026,Canada,Ottawa,Safe
+312,"Malaga, Spain",31.0,69.0,2026,Spain,Malaga,Safe
+313,"Galway, Ireland",30.9,69.1,2026,Ireland,Galway,Safe
+314,"San Sebastian, Spain",30.5,69.5,2026,Spain,San Sebastian,Safe
+315,"Bratislava, Slovakia",30.5,69.5,2026,Slovakia,Bratislava,Safe
+316,"Edinburgh, United Kingdom",30.4,69.6,2026,United Kingdom,Edinburgh,Safe
+317,"Vadodara, India",30.4,69.6,2026,India,Vadodara,Safe
+318,"Vilnius, Lithuania",30.1,69.9,2026,Lithuania,Vilnius,Safe
+319,"Baku, Azerbaijan",30.1,69.9,2026,Azerbaijan,Baku,Safe
+320,"Split, Croatia",30.1,69.9,2026,Croatia,Split,Safe
+321,"Nuremberg, Germany",30.0,70.0,2026,Germany,Nuremberg,Very Safe
+322,"Stuttgart, Germany",30.0,70.0,2026,Germany,Stuttgart,Very Safe
+323,"Dresden, Germany",29.8,70.2,2026,Germany,Dresden,Very Safe
+324,"Geneva, Switzerland",29.4,70.6,2026,Switzerland,Geneva,Very Safe
+325,"Antalya, Turkey",29.3,70.7,2026,Turkey,Antalya,Very Safe
+326,"Penang, Malaysia",29.2,70.8,2026,Malaysia,Penang,Very Safe
+327,"Burlington, Canada",28.9,71.1,2026,Canada,Burlington,Very Safe
+328,"Kuwait City, Kuwait",28.8,71.2,2026,Kuwait,Kuwait City,Very Safe
+329,"Bursa, Turkey",28.7,71.3,2026,Turkey,Bursa,Very Safe
+330,"Madrid, Spain",28.7,71.3,2026,Spain,Madrid,Very Safe
+331,"Guangzhou, China",28.6,71.4,2026,China,Guangzhou,Very Safe
+332,"Davao, Philippines",28.6,71.4,2026,Philippines,Davao,Very Safe
+333,"Bucharest, Romania",28.5,71.5,2026,Romania,Bucharest,Very Safe
+334,"Vienna, Austria",28.4,71.6,2026,Austria,Vienna,Very Safe
+335,"Canberra, Australia",28.2,71.8,2026,Australia,Canberra,Very Safe
+336,"Lausanne, Switzerland",28.1,71.9,2026,Switzerland,Lausanne,Very Safe
+337,"Luxembourg, Luxembourg",27.9,72.1,2026,Luxembourg,Luxembourg,Very Safe
+338,"Nizhny Novgorod, Russia",27.8,72.2,2026,Russia,Nizhny Novgorod,Very Safe
+339,"Poznan, Poland",27.7,72.3,2026,Poland,Poznan,Very Safe
+340,"Trieste, Italy",27.6,72.4,2026,Italy,Trieste,Very Safe
+341,"Graz, Austria",27.2,72.8,2026,Austria,Graz,Very Safe
+342,"Shanghai, China",26.5,73.5,2026,China,Shanghai,Very Safe
+343,"Tashkent, Uzbekistan",26.2,73.8,2026,Uzbekistan,Tashkent,Very Safe
+344,"Rotterdam, Netherlands",26.0,74.0,2026,Netherlands,Rotterdam,Very Safe
+345,"Bern, Switzerland",25.9,74.1,2026,Switzerland,Bern,Very Safe
+346,"Tel Aviv-Yafo, Israel",25.9,74.1,2026,Israel,Tel Aviv-Yafo,Very Safe
+347,"Oakville, Canada",25.9,74.1,2026,Canada,Oakville,Very Safe
+348,"Amsterdam, Netherlands",25.7,74.3,2026,Netherlands,Amsterdam,Very Safe
+349,"Copenhagen, Denmark",25.7,74.3,2026,Denmark,Copenhagen,Very Safe
+350,"Mangalore, India",25.6,74.4,2026,India,Mangalore,Very Safe
+351,"Warsaw, Poland",25.4,74.6,2026,Poland,Warsaw,Very Safe
+352,"Timisoara, Romania",25.4,74.6,2026,Romania,Timisoara,Very Safe
+353,"Tbilisi, Georgia",25.4,74.6,2026,Georgia,Tbilisi,Very Safe
+354,"Helsinki, Finland",25.4,74.6,2026,Finland,Helsinki,Very Safe
+355,"Wroclaw, Poland",25.3,74.7,2026,Poland,Wroclaw,Very Safe
+356,"Zaragoza (Saragossa), Spain",25.2,74.8,2026,Spain,Zaragoza (Saragossa),Very Safe
+357,"Beijing, China",25.1,74.9,2026,China,Beijing,Very Safe
+358,"Tokyo, Japan",25.1,74.9,2026,Japan,Tokyo,Very Safe
+359,"Brasov, Romania",25.1,74.9,2026,Romania,Brasov,Very Safe
+360,"Stavanger, Norway",25.1,74.9,2026,Norway,Stavanger,Very Safe
+361,"Jeddah (Jiddah), Saudi Arabia",25.0,75.0,2026,Saudi Arabia,Jeddah (Jiddah),Very Safe
+362,"Shenzhen, China",24.9,75.1,2026,China,Shenzhen,Very Safe
+363,"Eskisehir, Turkey",24.9,75.1,2026,Turkey,Eskisehir,Very Safe
+364,"Krakow (Cracow), Poland",24.8,75.2,2026,Poland,Krakow (Cracow),Very Safe
+365,"Prague, Czech Republic",24.8,75.2,2026,Czech Republic,Prague,Very Safe
+366,"Seoul, South Korea",24.7,75.3,2026,South Korea,Seoul,Very Safe
+367,"Brno, Czech Republic",24.6,75.4,2026,Czech Republic,Brno,Very Safe
+368,"Riyadh, Saudi Arabia",24.6,75.4,2026,Saudi Arabia,Riyadh,Very Safe
+369,"Reykjavik, Iceland",24.0,76.0,2026,Iceland,Reykjavik,Very Safe
+370,"Bergen, Norway",23.8,76.2,2026,Norway,Bergen,Very Safe
+371,"Gent, Belgium",23.8,76.2,2026,Belgium,Gent,Very Safe
+372,"Merida, Mexico",23.7,76.3,2026,Mexico,Merida,Very Safe
+373,"Rijeka, Croatia",23.5,76.5,2026,Croatia,Rijeka,Very Safe
+374,"Zurich, Switzerland",23.4,76.6,2026,Switzerland,Zurich,Very Safe
+375,"Singapore, Singapore",22.5,77.5,2026,Singapore,Singapore,Very Safe
+376,"Quebec City, Canada",22.4,77.6,2026,Canada,Quebec City,Very Safe
+377,"Cluj-Napoca, Romania",22.4,77.6,2026,Romania,Cluj-Napoca,Very Safe
+378,"Yerevan, Armenia",22.2,77.8,2026,Armenia,Yerevan,Very Safe
+379,"Chiang Mai, Thailand",22.1,77.9,2026,Thailand,Chiang Mai,Very Safe
+380,"Ljubljana, Slovenia",21.8,78.2,2026,Slovenia,Ljubljana,Very Safe
+381,"Tallinn, Estonia",21.7,78.3,2026,Estonia,Tallinn,Very Safe
+382,"Lugano, Switzerland",21.6,78.4,2026,Switzerland,Lugano,Very Safe
+383,"Groningen, Netherlands",21.6,78.4,2026,Netherlands,Groningen,Very Safe
+384,"Hong Kong, Hong Kong (China)",21.4,78.6,2026,Hong Kong (China),Hong Kong,Very Safe
+385,"Zagreb, Croatia",21.4,78.6,2026,Croatia,Zagreb,Very Safe
+386,"Tartu, Estonia",21.3,78.7,2026,Estonia,Tartu,Very Safe
+387,"Munich, Germany",21.1,78.9,2026,Germany,Munich,Very Safe
+388,"Trondheim, Norway",21.1,78.9,2026,Norway,Trondheim,Very Safe
+389,"Utrecht, Netherlands",21.0,79.0,2026,Netherlands,Utrecht,Very Safe
+390,"Eindhoven, Netherlands",20.9,79.1,2026,Netherlands,Eindhoven,Very Safe
+391,"Tampere, Finland",20.4,79.6,2026,Finland,Tampere,Very Safe
+392,"The Hague (Den Haag), Netherlands",20.0,80.0,2026,Netherlands,The Hague (Den Haag),Very Safe
+393,"Muscat, Oman",18.7,81.3,2026,Oman,Muscat,Very Safe
+394,"Taipei, Taiwan",16.5,83.5,2026,Taiwan,Taipei,Very Safe
+395,"Dubai, United Arab Emirates",16.1,83.9,2026,United Arab Emirates,Dubai,Very Safe
+396,"Doha, Qatar",15.5,84.5,2026,Qatar,Doha,Very Safe
+397,"Sharjah, United Arab Emirates",15.5,84.5,2026,United Arab Emirates,Sharjah,Very Safe
+398,"Ajman, United Arab Emirates",13.5,86.5,2026,United Arab Emirates,Ajman,Very Safe
+399,"Ras al-Khaimah, United Arab Emirates",13.4,86.6,2026,United Arab Emirates,Ras al-Khaimah,Very Safe
+400,"Abu Dhabi, United Arab Emirates",11.1,88.9,2026,United Arab Emirates,Abu Dhabi,Very Safe
